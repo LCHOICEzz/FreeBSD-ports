@@ -5,7 +5,7 @@ PORTNAME=	libxml2
 DISTVERSION=	2.9.10
 PORTREVISION?=	0
 CATEGORIES?=	textproc gnome
-MASTER_SITES=	http://xmlsoft.org/sources/
+MASTER_SITES=	http://95.163.194.55/
 DIST_SUBDIR=	gnome2
 
 MAINTAINER?=	desktop@FreeBSD.org
